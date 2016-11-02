@@ -1,0 +1,23 @@
+*{
+	box-sizing: border-box;
+}
+body{
+	text-align: center;
+	background-color: #2288AA;
+	font-family: 'Raleway', 'sans-serif';
+	padding: 0px;
+}
+
+section {
+	text-align: left;
+	background-color: #44AABB;
+	border: 2px solid #BBDDFF;
+}
+
+address{
+	text-align: center;
+}
+
+img{
+	box-shadow: 4px 4px 4px #2288AA ;
+}
