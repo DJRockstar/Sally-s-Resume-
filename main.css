@@ -21,3 +21,13 @@ address{
 img{
 	box-shadow: 4px 4px 4px #2288AA ;
 }
+
+section {
+	padding: 10px;
+}
+
+img {
+	border-radius: 100%;
+	width: 20%;
+	border: 2px solid silver;
+}
