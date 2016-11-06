@@ -3,14 +3,14 @@
 }
 body{
 	text-align: center;
-	background-color: #2288AA;
+	background-color: mediumaquamarine;
 	font-family: 'Raleway', 'sans-serif';
 	padding: 0px;
 }
 
 section {
 	text-align: left;
-	background-color: #44AABB;
+	background: linear-gradient(to bottom, rgba(229,154,19,0), rgba(229,154,19,1));
 	border: 2px solid #BBDDFF;
 }
 
